@@ -52,6 +52,7 @@ fieldset {
     padding: .5em 1em;
 }
 legend {
+    color: black;
     font-weight: bold;
     font-size: 85%;
     padding-bottom: .5em;
